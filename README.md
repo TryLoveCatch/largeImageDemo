@@ -1,4 +1,3 @@
-# largeImageDemo
 
 # 下载地址
 [Demo下载](https://raw.githubusercontent.com/TryLoveCatch/largeImageDemo/master/app-debug.apk)
